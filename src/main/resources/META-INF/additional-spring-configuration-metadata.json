@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "storage.s3.access-key-id",
+      "type": "java.lang.String",
+      "description": "Description for storage.s3.access-key-id."
+    },
+    {
+      "name": "storage.s3.access-key-secret",
+      "type": "java.lang.String",
+      "description": "Description for storage.s3.access-key-secret."
+    },
+    {
+      "name": "storage.s3.bucket-name",
+      "type": "java.lang.String",
+      "description": "Description for storage.s3.bucket-name."
+    },
+    {
+      "name": "storage.s3.region",
+      "type": "java.lang.String",
+      "description": "Description for storage.s3.region."
+    },
+    {
+      "name": "storage.s3.photos-directory",
+      "type": "java.lang.String",
+      "description": "Description for storage.s3.photos-directory."
+    }
+  ] }
